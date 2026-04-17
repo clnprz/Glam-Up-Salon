@@ -22,7 +22,7 @@ The Salon Appointment Management System is designed to replace manual record-kee
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -78,18 +78,18 @@ String password = "your_password";
 
 ## Screenshots
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Login
+### Login
 ![Login](assets/login.png)
 
-### 🖥️ Admin Dashboard
+### Admin Dashboard
 ![Admin Dashboard](assets/admin-dashboard.png)
 
-### 📅 Appointments (Admin)
+### Appointments (Admin)
 ![Appointments Admin](assets/appointments-admin.png)
 
-### 💳 Payments (Admin)
+### Payments (Admin)
 ![Payments Admin](assets/payments-admin.png)
 
 ### Customers (Admin)
@@ -107,13 +107,13 @@ String password = "your_password";
 ### 🖥️ Staff Dashboard
 ![Staff Dashboard](assets/staff-dashboard.png)
 
-### 📅 Appointments (Staff)
+### Appointments (Staff)
 ![Appointments Staff](assets/appointments-staff.png)
 
-### 💳 Payments (Staff)
+### Payments (Staff)
 ![Payments Staff](assets/payments-staff.png)
 
-### 👤 Customers (Staff)
+### Customers (Staff)
 ![Customers Staff](assets/customers-staff.png)
 
 ---
