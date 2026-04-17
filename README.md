@@ -78,19 +78,43 @@ String password = "your_password";
 
 ## Screenshots
 
-> *Place screenshots of the running application inside the `assets/` folder and reference them below.*
+## 📸 Screenshots
 
-### Login Screen
-![Login Screen](assets/login.png)
+### 🔐 Login
+![Login](assets/login.png)
 
-### Admin Dashboard
+### 🖥️ Admin Dashboard
 ![Admin Dashboard](assets/admin-dashboard.png)
 
-### Appointment Scheduling
-![Appointments](assets/appointments.png)
+### 📅 Appointments (Admin)
+![Appointments Admin](assets/appointments-admin.png)
 
-### Payment Processing
-![Payments](assets/payments.png)
+### 💳 Payments (Admin)
+![Payments Admin](assets/payments-admin.png)
+
+### Customers (Admin)
+![Customers Admin](assets/customers-admin.png)
+
+### Book New Appointment
+![Book Appointment](assets/book-appointment.png)
+
+### Update Appointment
+![Update Appointment](assets/update-appointment.png)
+
+### Register Customer
+![Register Customer](assets/register-customer.png)
+
+### 🖥️ Staff Dashboard
+![Staff Dashboard](assets/staff-dashboard.png)
+
+### 📅 Appointments (Staff)
+![Appointments Staff](assets/appointments-staff.png)
+
+### 💳 Payments (Staff)
+![Payments Staff](assets/payments-staff.png)
+
+### 👤 Customers (Staff)
+![Customers Staff](assets/customers-staff.png)
 
 ---
 
