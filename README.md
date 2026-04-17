@@ -6,7 +6,7 @@ A Java-based desktop application for managing salon appointments, customers, sty
 
 ## Description
 
-The Salon Appointment Management System is designed to replace manual record-keeping in a salon environment. It provides two user roles — **Admin** and **Staff** — each with their own dashboard and set of features. All data is persisted in a **Microsoft SQL Server database (SalonDB)**, and every user action is recorded through a built-in **audit logging system**.
+The Salon Appointment Management System is designed to replace manual record-keeping in a salon environment. It provides two user roles — **Admin** and **Staff** — each with their own dashboard and set of features. All data is persisted in a **Microsoft SQL Server database (SalonDB)**.
 
 ---
 
@@ -18,7 +18,6 @@ The Salon Appointment Management System is designed to replace manual record-kee
 - **Payment Processing** — Record and manage customer payments
 - **Stylist Management** — Manage stylist information and assignments
 - **User Management** *(Admin only)* — Create and manage system user accounts
-- **Audit Logging** — Automatic logging of all user actions for accountability
 
 ---
 
