@@ -81,40 +81,40 @@ String password = "your_password";
 ## Screenshots
 
 ### Login
-![Login](assets/login.png)
+![Login](assets/login.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](assets/admin-dashboard.png)
+![Admin Dashboard](assets/admin-dashboard.jpg)
 
 ### Appointments (Admin)
-![Appointments Admin](assets/appointments-admin.png)
+![Appointments Admin](assets/appointments-admin.jpg)
 
 ### Payments (Admin)
-![Payments Admin](assets/payments-admin.png)
+![Payments Admin](assets/payments-admin.jpg)
 
 ### Customers (Admin)
-![Customers Admin](assets/customers-admin.png)
+![Customers Admin](assets/customers-admin.jpg)
 
 ### Book New Appointment
-![Book Appointment](assets/book-appointment.png)
+![Book Appointment](assets/book-appointment.jpg)
 
 ### Update Appointment
-![Update Appointment](assets/update-appointment.png)
+![Update Appointment](assets/update-appointment.jpg)
 
 ### Register Customer
-![Register Customer](assets/register-customer.png)
+![Register Customer](assets/register-customer.jpg)
 
-### 🖥️ Staff Dashboard
-![Staff Dashboard](assets/staff-dashboard.png)
+### Staff Dashboard
+![Staff Dashboard](assets/staff-dashboard.jpg)
 
 ### Appointments (Staff)
-![Appointments Staff](assets/appointments-staff.png)
+![Appointments Staff](assets/appointments-staff.jpg)
 
 ### Payments (Staff)
-![Payments Staff](assets/payments-staff.png)
+![Payments Staff](assets/payments-staff.jpg)
 
 ### Customers (Staff)
-![Customers Staff](assets/customers-staff.png)
+![Customers Staff](assets/customers-staff.jpg)
 
 ---
 
