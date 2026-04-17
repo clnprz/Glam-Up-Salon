@@ -1,24 +1,24 @@
-# 💅 Salon Appointment Management System
+# Salon Appointment Management System
 
 A Java-based desktop application for managing salon appointments, customers, stylists, payments, and user accounts.
 
 ---
 
-## 📖 Description
+## Description
 
 The Salon Appointment Management System is designed to replace manual record-keeping in a salon environment. It provides two user roles — **Admin** and **Staff** — each with their own dashboard and set of features. All data is persisted in a **Microsoft SQL Server database (SalonDB)**, and every user action is recorded through a built-in **audit logging system**.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 **Login / Authentication** — Secure role-based login for Admin and Staff
-- 👤 **Customer Registration** — Add and manage customer profiles
-- 📅 **Appointment Scheduling** — Book, update, and track salon appointments
-- 💳 **Payment Processing** — Record and manage customer payments
-- ✂️ **Stylist Management** — Manage stylist information and assignments
-- 🛠️ **User Management** *(Admin only)* — Create and manage system user accounts
-- 📋 **Audit Logging** — Automatic logging of all user actions for accountability
+- **Login / Authentication** — Secure role-based login for Admin and Staff
+- **Customer Registration** — Add and manage customer profiles
+- **Appointment Scheduling** — Book, update, and track salon appointments
+- **Payment Processing** — Record and manage customer payments
+- **Stylist Management** — Manage stylist information and assignments
+- **User Management** *(Admin only)* — Create and manage system user accounts
+- **Audit Logging** — Automatic logging of all user actions for accountability
 
 ---
 
@@ -33,7 +33,7 @@ The Salon Appointment Management System is designed to replace manual record-kee
 
 ---
 
-## ⚙️ Installation & Setup Guide
+## Installation & Setup Guide
 
 ### Prerequisites
 - [Java JDK 8+](https://www.oracle.com/java/technologies/downloads/)
@@ -76,7 +76,7 @@ String password = "your_password";
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *Place screenshots of the running application inside the `assets/` folder and reference them below.*
 
@@ -94,17 +94,17 @@ String password = "your_password";
 
 ---
 
-## 👩‍💻 Contributors
+## Contributors
 
 | Name | GitHub |
 |---|---|
-| Raven Lou Bituin | — |
-| Eujyll Vyndrieisne Abella | — |
-| Clysce Ena Perez | — |
-| Jasmine Tubilla | — |
+| Raven Lou Bituin | [@vennbtwn](https://github.com/vennbtwn) |
+| Eujyll Vyndrieisne Abella | [@euchill](https://github.com/euchill) |
+| Jasmine Tubilla | [@jsmntbll_](https://github.com/jsmntbll_) |
+| Clysce Ena Perez | [@clnprz](https://github.com/clnprz) |
 
 ---
 
-## 📄 License
+## License
 
 This project was developed as an academic requirement. All rights reserved by the contributors.
